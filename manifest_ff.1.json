@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "__MSG_application_title__",
-  "short_name": "Highlight This",
+  "short_name": "Gull Tyring",
   "description": "__MSG_application_description__",
   "default_locale": "en",
   "permissions": ["tabs","contextMenus","notifications","activeTab","alarms","downloads","storage"],
@@ -20,10 +20,17 @@
       },
       "description": "ScrollHighlight"
     }
+    "TyreBrobnik": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+F8",
+        "mac": "Command+Shift+F8"
+      },
+      "description": "TyreBrobnik"
+    }
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "highlightthis@deboel.eu"
+      "id": "gulltyring"
     }
   },
   "version": "4.7.1",

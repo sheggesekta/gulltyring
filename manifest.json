@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "__MSG_application_title__",
-  "short_name": "Gull Tyring",
+  "short_name": "Highlight This",
   "description": "__MSG_application_description__",
   "default_locale": "en",
   "permissions": ["tabs","contextMenus","notifications","activeTab","alarms","downloads","storage"],
@@ -30,7 +30,7 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "gulltyring"
+      "id": "highlightthis@deboel.eu"
     }
   },
   "version": "0.1",

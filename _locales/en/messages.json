@@ -1,13 +1,13 @@
 {
   "application_title": {
-    "message": "Highlight This: finds and marks words"
+    "message": "Gull Tyring: find brobas and marks words with them"
   },
   "application_description": {
-    "message": "Automatically finds and highlights words and phrases on the web page according to your list"
+    "message": "Automatically gulls on the web page according to privnotes"
   },
-  "popup_title": {"message": "Highlight This!"},
-  "popup_showDonate": {"message": "Help & Donate!"},
-  "popup_byline": {"message": "The extension highlights all below words on the page"},
+  "popup_title": {"message": "Gull Tyring!"},
+  "popup_showDonate": {"message": "Don't Help & Donate!"},
+  "popup_byline": {"message": "The extension highlights all brobniks on the page"},
   "popup_nowords": {"message": "There are no word lists defined"},
   "popup_createWordList": {"message": "Create a word list"},
   "popup_create1": {"message": "Create a word list with words to have"},
@@ -15,7 +15,7 @@
   "popup_addnewlist": {"message": "Add a new word list"},
   "popup_collapseAll": {"message": "Collapse all"},
   "popup_configureWords": {"message": "< Configure words"},
-  "popup_foundWords": {"message": "We have highlighted these words on this page."},
+  "popup_foundWords": {"message": "We have highlighted these brobniks on this page."},
   "popup_dontshowwords": {"message": "Stop showing this overview"},
   "popup_tip1": {"message": "Tip: Use"},
   "popup_tip2": {"message": "+Shift+Space"},

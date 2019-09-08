@@ -280,10 +280,7 @@ function findWords() {
             });
         }
         debug&&console.log('finished finding words');
-        debug&&(debugStats.findCount+=1);
-
-        ReadyToFindWords = true;
-        Array.prototype.unique = function() {
+                Array.prototype.unique = function() {
           return this.filter(function (value, index, self) { 
             return self.indexOf(value) === index;
           });
@@ -305,6 +302,11 @@ function findWords() {
         console.log(links.unique());
         //}, HighlightWarmup);
     }
+
+        
+        debug&&(debugStats.findCount+=1);
+
+        ReadyToFindWords = true;
 
 }
 
